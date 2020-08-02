@@ -9,11 +9,11 @@ import java.util.Scanner;
 //**********************************************************************
 public class DivisorCalc {
 	static int num1, num2;
-	//-------------------------------------------------------------
+	// -------------------------------------------------------------
 	// returns the greatest common divisor between the two integers
 	// by implementing a recursive method.
-	//-------------------------------------------------------------
-	
+	// -------------------------------------------------------------
+
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
