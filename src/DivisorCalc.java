@@ -11,7 +11,7 @@ public class DivisorCalc {
 	static int num1, num2;
 	// -------------------------------------------------------------
 	// returns the greatest common divisor between the two integers
-	// by implementing a recursive method.
+	// by implementing recursion.
 	// -------------------------------------------------------------
 
 	public static void main(String[] args) {
